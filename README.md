@@ -19,3 +19,5 @@ Movie info fetched via OMDb API
 pip install -r requirements.txt
 
 streamlit run streamlit_app/app.py
+
+🔗 Live Demo (Temporary): (https://48ec-34-75-227-208.ngrok-free.app/) — Please note this link is only active for a limited time.
